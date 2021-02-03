@@ -30,6 +30,7 @@ let { count } = this.state
 return(
 <div>
 
+<h1>Counter App using React JS</h1>
   <h2> Count : { count }</h2>
 
   <Button title = { "+" }
